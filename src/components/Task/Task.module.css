@@ -1,0 +1,17 @@
+.Task {
+    border-bottom: 2px solid rgb(118, 7, 152);
+    padding: 5px;
+}
+
+.TaskText{
+    font-weight: bold;
+}
+
+.TaskDone{
+    color: #d9534f    ;
+    text-decoration: line-through;
+}
+
+.ButtonGroup{
+    float: right;
+}
